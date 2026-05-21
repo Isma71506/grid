@@ -1,0 +1,9 @@
+.contenedor {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.caja{
+    background-color: yellowgreen;
+    border: 2px solid coral;
+}
