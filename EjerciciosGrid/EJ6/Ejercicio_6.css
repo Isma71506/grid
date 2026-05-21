@@ -1,0 +1,13 @@
+.contenedor {
+    display:grid;
+    grid-template-rows: repeat(2, 150px);
+    grid-template-columns: repeat(2, 150px);
+    place-items: center;
+    border: 2px solid hotpink;
+}
+
+.caja {
+    border: 2px solid goldenrod;
+    background-color: peru;
+
+}
